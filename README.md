@@ -23,7 +23,7 @@ Extracts web links from the message using regex. It strips out email addresses s
 ## Project Structure
 
 ```text
-campuscheck/
+AI Scam Detector/
 ├── app.py              # Main Streamlit app with Ollama + VirusTotal logic
 ├── .env                # Local API key (never committed to GitHub)
 ├── .gitignore          # Keeps .env and Python cache out of version control
